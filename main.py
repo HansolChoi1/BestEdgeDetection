@@ -1,7 +1,3 @@
-#asdf
-#asdfadf
-#AFDWOHIWADGHIO;WADGOG
-#444444444444444
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
@@ -18,4 +14,3 @@ plt.subplot(122),plt.imshow(edges,cmap = 'gray')
 plt.title('Edge Image'), plt.xticks([]), plt.yticks([])
 
 plt.show()
-#asdfasdfdsafadsf
