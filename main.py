@@ -7,7 +7,7 @@ from matplotlib import pyplot as plt
 #sd
 #sd
 img = cv2.imread('lenna.png', cv2.IMREAD_COLOR)
-
+#HANSOL1
 img = cv2.GaussianBlur(img, (5,5), 0)
 
 edges = cv2.Canny(img,100,200)
