@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 #sdfffffffffffffffffffffffffff
-img = cv2.imread('lenna.png', cv2.IMREAD_COLOR)
+img = cv2.imread('lenna.png', cv2.IMREAD_COLOR)#876876876
 #HANSOL1
 img = cv2.GaussianBlur(img, (5,5), 0)
 
