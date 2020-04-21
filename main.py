@@ -2,6 +2,10 @@ import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 #sdfffffffffffffffffffffffffff
+#as
+#sd
+#sd
+#sd
 img = cv2.imread('lenna.png', cv2.IMREAD_COLOR)
 
 img = cv2.GaussianBlur(img, (5,5), 0)
